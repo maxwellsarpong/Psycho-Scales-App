@@ -1,0 +1,27 @@
+﻿[CSPro Application]
+Version=CSPro 7.3
+Label=PSCHO_SCALES_APP
+Name=PSCHO_SCALES_APP
+AppType=DataEntry
+OperatorID=No
+PartialSave=Yes
+CAPI=Yes
+CAPIFont1=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont2=-016 0000 0000 0000 0400 0000 0000 0000 0000 0000 0000 0000 0000 Arial
+CAPIFont1Color=0
+CAPIFont2Color=16711680
+ShowFieldLabels=No
+ShowErrorMessageNumbers=No
+[AppCode]
+File=.\Pscho Scales App.ent.apc
+[Message]
+File=.\Pscho Scales App.ent.mgf
+[Help]
+File=.\Pscho Scales App.ent.qsf
+[Forms]
+File=.\Pscho Scales App.fmf
+[Dictionary Types]
+Dict-Type=.\Psycho Scales App.dcf,Input,.\Pscho Scales App.fmf
+[Sync]
+Server=https://cdamaa-data.ucc.edu.gh/api
+Direction=Put

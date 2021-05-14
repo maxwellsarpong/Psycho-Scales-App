@@ -1,0 +1,1482 @@
+﻿[Dictionary]
+Version=CSPro 7.3
+Label=Psycho Scales App
+Name=PSYCHO_SCALES_APP_DICT
+RecordTypeStart=1
+RecordTypeLen=1
+Positions=Relative
+ZeroFill=No
+DecimalChar=Yes
+
+[Level]
+Label=Psycho Scales App Level
+Name=PSYCHO_SCALES_APP_LEVEL
+
+[IdItems]
+
+[Item]
+Label=ID
+Name=ID
+Start=2
+Len=8
+
+[Record]
+Label=MHWB
+Name=MHWB
+RecordTypeValue='2'
+RecordLen=163
+
+[Item]
+Label=Gender
+Name=GENDER
+Start=10
+Len=7
+DataType=Alpha
+
+[ValueSet]
+Label=Gender
+Name=GENDER_VS1
+Value='Male   ';Male
+Value='Female ';Female
+
+[Item]
+Label=Age
+Name=AGE
+Start=17
+Len=3
+
+[Item]
+Label=Marital Status
+Name=MARITAL_STATUS
+Start=20
+Len=15
+DataType=Alpha
+
+[ValueSet]
+Label=Marital Status
+Name=MARITAL_STATUS_VS1
+Value='Married        ';Married
+Value='Single         ';Single
+Value='Divorced       ';Divorced
+Value='Co-habiting    ';Co-habiting
+Value='Separated      ';Separated
+Value='Widowed        ';Widowed
+
+[Item]
+Label=Religion
+Name=RELIGION
+Start=35
+Len=1
+
+[ValueSet]
+Label=Religion
+Name=RELIGION_VS1
+Value=0;Islam
+Value=1;Traditionalist
+Value=2;No Religious
+Value=3;Other Specify
+
+[Item]
+Label=Religion_Specify
+Name=RELIGION_SPECIFY
+Start=36
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Employment Status
+Name=EMPLOYMENT_STATUS
+Start=66
+Len=1
+
+[ValueSet]
+Label=Employment Status
+Name=EMPLOYMENT_STATUS_VS1
+Value=0;Employed by other
+Value=1;Employed by self
+Value=2;Unemployed
+Value=3;Student
+
+[Item]
+Label=Employment_Specify
+Name=EMPLOYMENT_SPECIFY
+Start=67
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Educational Level
+Name=EDUCATIONAL_LEVEL
+Start=97
+Len=30
+DataType=Alpha
+
+[ValueSet]
+Label=Educational Level
+Name=EDUCATIONAL_LEVEL_VS1
+Value='Tertiary                      ';Tertiary
+Value='SHS                           ';SHS
+Value='JHS/Middle Sch                ';JHS/Middle Sch
+Value='Vocational                    ';Vocational
+Value='No Education                  ';No Education
+
+[Item]
+Label=Health Condition
+Name=HEALTH_CONDITION
+Start=127
+Len=1
+
+[ValueSet]
+Label=Health Condition
+Name=HEALTH_CONDITION_VS1
+Value=1;Yes
+Value=0;No
+
+[Item]
+Label=Health_Condition_Specify
+Name=HEALTH_CONDITION_SPECIFY
+Start=128
+Len=30
+DataType=Alpha
+
+[Item]
+Label=Smoke
+Name=SMOKE
+Start=158
+Len=3
+DataType=Alpha
+
+[ValueSet]
+Label=Smoke
+Name=SMOKE_VS1
+Value='Yes';Yes
+Value='No ';No
+
+[Item]
+Label=Alcohol
+Name=ALCOHOL
+Start=161
+Len=3
+DataType=Alpha
+
+[ValueSet]
+Label=Alcohol
+Name=ALCOHOL_VS1
+Value='Yes';Yes
+Value='No ';No
+
+[Record]
+Label=HIV Stigma Scale
+Name=HIV_STIGMA_SCALE
+RecordTypeValue='1'
+RecordLen=329
+
+[Item]
+Label=S_001
+Name=S_001
+Start=10
+Len=32
+DataType=Alpha
+
+[ValueSet]
+Label=S_001
+Name=S_001_VS1
+Value='Disagree                        ';Disagree
+Value='Strongly Disagree               ';Strongly Disagree
+Value='Agree                           ';Agree
+Value='Strongly Agree                  ';Strongly Agree
+
+[Item]
+Label=S_002
+Name=S_002
+Start=42
+Len=32
+DataType=Alpha
+
+[ValueSet]
+Label=S_002
+Name=S_002_VS1
+Value='Disagree                        ';Disagree
+Value='Strongly Disagree               ';Strongly Disagree
+Value='Agree                           ';Agree
+Value='Strongly Agree                  ';Strongly Agree
+
+[Item]
+Label=S_003
+Name=S_003
+Start=74
+Len=32
+DataType=Alpha
+
+[ValueSet]
+Label=S_003
+Name=S_003_VS1
+Value='Disagree                        ';Disagree
+Value='Strongly Disagree               ';Strongly Disagree
+Value='Agree                           ';Agree
+Value='Strongly Agree                  ';Strongly Agree
+
+[Item]
+Label=S_004
+Name=S_004
+Start=106
+Len=32
+DataType=Alpha
+
+[ValueSet]
+Label=S_004
+Name=S_004_VS1
+Value='Disagree                        ';Disagree
+Value='Strongly Disagree               ';Strongly Disagree
+Value='Agree                           ';Agree
+Value='Strongly Agree                  ';Strongly Agree
+
+[Item]
+Label=S_005
+Name=S_005
+Start=138
+Len=32
+DataType=Alpha
+
+[ValueSet]
+Label=S_005
+Name=S_005_VS1
+Value='Disagree                        ';Disagree
+Value='Strongly Disagree               ';Strongly Disagree
+Value='Agree                           ';Agree
+Value='Strongly Agree                  ';Strongly Agree
+
+[Item]
+Label=S_006
+Name=S_006
+Start=170
+Len=32
+DataType=Alpha
+
+[ValueSet]
+Label=S_006
+Name=S_006_VS1
+Value='Disagree                        ';Disagree
+Value='Strongly Disagree               ';Strongly Disagree
+Value='Agree                           ';Agree
+Value='Strongly Agree                  ';Strongly Agree
+
+[Item]
+Label=S_007
+Name=S_007
+Start=202
+Len=32
+DataType=Alpha
+
+[ValueSet]
+Label=S_007
+Name=S_007_VS1
+Value='Disagree                        ';Disagree
+Value='Strongly Disagree               ';Strongly Disagree
+Value='Agree                           ';Agree
+Value='Strongly Agree                  ';Strongly Agree
+
+[Item]
+Label=S_008
+Name=S_008
+Start=234
+Len=32
+DataType=Alpha
+
+[ValueSet]
+Label=S_008
+Name=S_008_VS1
+Value='Disagree                        ';Disagree
+Value='Strongly Disagree               ';Strongly Disagree
+Value='Agree                           ';Agree
+Value='Strongly Agree                  ';Strongly Agree
+
+[Item]
+Label=S_009
+Name=S_009
+Start=266
+Len=32
+DataType=Alpha
+
+[ValueSet]
+Label=S_009
+Name=S_009_VS1
+Value='Disagree                        ';Disagree
+Value='Strongly Disagree               ';Strongly Disagree
+Value='Agree                           ';Agree
+Value='Strongly Agree                  ';Strongly Agree
+
+[Item]
+Label=S_0010
+Name=S_0010
+Start=298
+Len=32
+DataType=Alpha
+
+[ValueSet]
+Label=S_0010
+Name=S_0010_VS1
+Value='Disagree                        ';Disagree
+Value='Strongly Disagree               ';Strongly Disagree
+Value='Agree                           ';Agree
+Value='Strongly Agree                  ';Strongly Agree
+
+[Record]
+Label=UCLA Loneliness Scale
+Name=UCLA_LONELINESS_SCALE
+RecordTypeValue='3'
+RecordLen=209
+
+[Item]
+Label=UCLA_001
+Name=UCLA_001
+Start=10
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=UCLA_001
+Name=UCLA_001_VS1
+Value='Never     ';Never
+Value='Rarely    ';Rarely
+Value='Sometimes ';Sometimes
+Value='Always    ';Always
+
+[Item]
+Label=UCLA_002
+Name=UCLA_002
+Start=20
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=UCLA_002
+Name=UCLA_002_VS1
+Value='Never     ';Never
+Value='Rarely    ';Rarely
+Value='Sometimes ';Sometimes
+Value='Always    ';Always
+
+[Item]
+Label=UCLA_003
+Name=UCLA_003
+Start=30
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=UCLA_003
+Name=UCLA_003_VS1
+Value='Never     ';Never
+Value='Rarely    ';Rarely
+Value='Sometimes ';Sometimes
+Value='Always    ';Always
+
+[Item]
+Label=UCLA_004
+Name=UCLA_004
+Start=40
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=UCLA_004
+Name=UCLA_004_VS1
+Value='Never     ';Never
+Value='Rarely    ';Rarely
+Value='Sometimes ';Sometimes
+Value='Always    ';Always
+
+[Item]
+Label=UCLA_005
+Name=UCLA_005
+Start=50
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=UCLA_005
+Name=UCLA_005_VS1
+Value='Never     ';Never
+Value='Rarely    ';Rarely
+Value='Sometimes ';Sometimes
+Value='Always    ';Always
+
+[Item]
+Label=UCLA_006
+Name=UCLA_006
+Start=60
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=UCLA_006
+Name=UCLA_006_VS1
+Value='Never     ';Never
+Value='Rarely    ';Rarely
+Value='Sometimes ';Sometimes
+Value='Always    ';Always
+
+[Item]
+Label=UCLA_007
+Name=UCLA_007
+Start=70
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=UCLA_007
+Name=UCLA_007_VS1
+Value='Never     ';Never
+Value='Rarely    ';Rarely
+Value='Sometimes ';Sometimes
+Value='Always    ';Always
+
+[Item]
+Label=UCLA_008
+Name=UCLA_008
+Start=80
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=UCLA_008
+Name=UCLA_008_VS1
+Value='Never     ';Never
+Value='Rarely    ';Rarely
+Value='Sometimes ';Sometimes
+Value='Always    ';Always
+
+[Item]
+Label=UCLA_009
+Name=UCLA_009
+Start=90
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=UCLA_009
+Name=UCLA_009_VS1
+Value='Never     ';Never
+Value='Rarely    ';Rarely
+Value='Sometimes ';Sometimes
+Value='Always    ';Always
+
+[Item]
+Label=UCLA_010
+Name=UCLA_010
+Start=100
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=UCLA_010
+Name=UCLA_010_VS1
+Value='Never     ';Never
+Value='Rarely    ';Rarely
+Value='Sometimes ';Sometimes
+Value='Always    ';Always
+
+[Item]
+Label=UCLA_011
+Name=UCLA_011
+Start=110
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=UCLA_011
+Name=UCLA_011_VS1
+Value='Never     ';Never
+Value='Rarely    ';Rarely
+Value='Sometimes ';Sometimes
+Value='Always    ';Always
+
+[Item]
+Label=UCLA_012
+Name=UCLA_012
+Start=120
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=UCLA_012
+Name=UCLA_012_VS1
+Value='Never     ';Never
+Value='Rarely    ';Rarely
+Value='Sometimes ';Sometimes
+Value='Always    ';Always
+
+[Item]
+Label=UCLA_013
+Name=UCLA_013
+Start=130
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=UCLA_013
+Name=UCLA_013_VS1
+Value='Never     ';Never
+Value='Rarely    ';Rarely
+Value='Sometimes ';Sometimes
+Value='Always    ';Always
+
+[Item]
+Label=UCLA_014
+Name=UCLA_014
+Start=140
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=UCLA_014
+Name=UCLA_014_VS1
+Value='Never     ';Never
+Value='Rarely    ';Rarely
+Value='Sometimes ';Sometimes
+Value='Always    ';Always
+
+[Item]
+Label=UCLA_015
+Name=UCLA_015
+Start=150
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=UCLA_015
+Name=UCLA_015_VS1
+Value='Never     ';Never
+Value='Rarely    ';Rarely
+Value='Sometimes ';Sometimes
+Value='Always    ';Always
+
+[Item]
+Label=UCLA_016
+Name=UCLA_016
+Start=160
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=UCLA_016
+Name=UCLA_016_VS1
+Value='Never     ';Never
+Value='Rarely    ';Rarely
+Value='Sometimes ';Sometimes
+Value='Always    ';Always
+
+[Item]
+Label=UCLA_017
+Name=UCLA_017
+Start=170
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=UCLA_017
+Name=UCLA_017_VS1
+Value='Never     ';Never
+Value='Rarely    ';Rarely
+Value='Sometimes ';Sometimes
+Value='Always    ';Always
+
+[Item]
+Label=UCLA_018
+Name=UCLA_018
+Start=180
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=UCLA_018
+Name=UCLA_018_VS1
+Value='Never     ';Never
+Value='Rarely    ';Rarely
+Value='Sometimes ';Sometimes
+Value='Always    ';Always
+
+[Item]
+Label=UCLA_019
+Name=UCLA_019
+Start=190
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=UCLA_019
+Name=UCLA_019_VS1
+Value='Never     ';Never
+Value='Rarely    ';Rarely
+Value='Sometimes ';Sometimes
+Value='Always    ';Always
+
+[Item]
+Label=UCLA_020
+Name=UCLA_020
+Start=200
+Len=10
+DataType=Alpha
+
+[ValueSet]
+Label=UCLA_020
+Name=UCLA_020_VS1
+Value='Never     ';Never
+Value='Rarely    ';Rarely
+Value='Sometimes ';Sometimes
+Value='Always    ';Always
+
+[Record]
+Label=Rosenberg Self Esteem Scale
+Name=ROSENBERG_SELF_ESTEEM_SCALE
+RecordTypeValue='4'
+RecordLen=179
+
+[Item]
+Label=R_001
+Name=R_001
+Start=10
+Len=17
+DataType=Alpha
+
+[ValueSet]
+Label=R_001
+Name=R_001_VS1
+Value='Strongly Agree   ';Strongly Agree
+Value='Agree            ';Agree
+Value='Disagree         ';Disagree
+Value='Strongly Disagree';Strongly Disagree
+
+[Item]
+Label=R_002
+Name=R_002
+Start=27
+Len=17
+DataType=Alpha
+
+[ValueSet]
+Label=R_002
+Name=R_002_VS1
+Value='Strongly Agree   ';Strongly Agree
+Value='Agree            ';Agree
+Value='Disagree         ';Disagree
+Value='Strongly Disagree';Strongly Disagree
+
+[Item]
+Label=R_003
+Name=R_003
+Start=44
+Len=17
+DataType=Alpha
+
+[ValueSet]
+Label=R_003
+Name=R_003_VS1
+Value='Strongly Agree   ';Strongly Agree
+Value='Agree            ';Agree
+Value='Disagree         ';Disagree
+Value='Strongly Disagree';Strongly Disagree
+
+[Item]
+Label=R_004
+Name=R_004
+Start=61
+Len=17
+DataType=Alpha
+
+[ValueSet]
+Label=R_004
+Name=R_004_VS1
+Value='Strongly Agree   ';Strongly Agree
+Value='Agree            ';Agree
+Value='Disagree         ';Disagree
+Value='Strongly Disagree';Strongly Disagree
+
+[Item]
+Label=R_005
+Name=R_005
+Start=78
+Len=17
+DataType=Alpha
+
+[ValueSet]
+Label=R_005
+Name=R_005_VS1
+Value='Strongly Agree   ';Strongly Agree
+Value='Agree            ';Agree
+Value='Disagree         ';Disagree
+Value='Strongly Disagree';Strongly Disagree
+
+[Item]
+Label=R_006
+Name=R_006
+Start=95
+Len=17
+DataType=Alpha
+
+[ValueSet]
+Label=R_006
+Name=R_006_VS1
+Value='Strongly Agree   ';Strongly Agree
+Value='Agree            ';Agree
+Value='Disagree         ';Disagree
+Value='Strongly Disagree';Strongly Disagree
+
+[Item]
+Label=R_007
+Name=R_007
+Start=112
+Len=17
+DataType=Alpha
+
+[ValueSet]
+Label=R_007
+Name=R_007_VS1
+Value='Strongly Agree   ';Strongly Agree
+Value='Agree            ';Agree
+Value='Disagree         ';Disagree
+Value='Strongly Disagree';Strongly Disagree
+
+[Item]
+Label=R_008
+Name=R_008
+Start=129
+Len=17
+DataType=Alpha
+
+[ValueSet]
+Label=R_008
+Name=R_008_VS1
+Value='Strongly Agree   ';Strongly Agree
+Value='Agree            ';Agree
+Value='Disagree         ';Disagree
+Value='Strongly Disagree';Strongly Disagree
+
+[Item]
+Label=R_009
+Name=R_009
+Start=146
+Len=17
+DataType=Alpha
+
+[ValueSet]
+Label=R_009
+Name=R_009_VS1
+Value='Strongly Agree   ';Strongly Agree
+Value='Agree            ';Agree
+Value='Disagree         ';Disagree
+Value='Strongly Disagree';Strongly Disagree
+
+[Item]
+Label=R_010
+Name=R_010
+Start=163
+Len=17
+DataType=Alpha
+
+[ValueSet]
+Label=R_010
+Name=R_010_VS1
+Value='Strongly Agree   ';Strongly Agree
+Value='Agree            ';Agree
+Value='Disagree         ';Disagree
+Value='Strongly Disagree';Strongly Disagree
+
+[Record]
+Label=Depression, Anxiety, and Stress Scale
+Name=DEPRESSION_ANXIETY_AND_STRESS_SCALE
+RecordTypeValue='5'
+RecordLen=30
+
+[Item]
+Label=DASS_001
+Name=DASS_00120
+Start=10
+Len=1
+
+[ValueSet]
+Label=DASS_001
+Name=DASS_00120_VS1
+Value=0;0
+Value=1;1
+Value=2;2
+Value=3;3
+
+[Item]
+Label=DASS_002
+Name=DASS_002
+Start=11
+Len=1
+
+[ValueSet]
+Label=DASS_002
+Name=DASS_002_VS1
+Value=0;0
+Value=1;1
+Value=2;2
+Value=3;3
+
+[Item]
+Label=DASS_003
+Name=DASS_003
+Start=12
+Len=1
+
+[ValueSet]
+Label=DASS_003
+Name=DASS_003_VS1
+Value=0;0
+Value=1;1
+Value=2;2
+Value=3;3
+
+[Item]
+Label=DASS_004
+Name=DASS_004
+Start=13
+Len=1
+
+[ValueSet]
+Label=DASS_004
+Name=DASS_004_VS1
+Value=0;0
+Value=1;1
+Value=2;2
+Value=3;3
+
+[Item]
+Label=DASS_005
+Name=DASS_005
+Start=14
+Len=1
+
+[ValueSet]
+Label=DASS_005
+Name=DASS_005_VS1
+Value=0;0
+Value=1;1
+Value=2;2
+Value=3;3
+
+[Item]
+Label=DASS_006
+Name=DASS_006
+Start=15
+Len=1
+
+[ValueSet]
+Label=DASS_006
+Name=DASS_006_VS1
+Value=0;0
+Value=1;1
+Value=2;2
+Value=3;3
+
+[Item]
+Label=DASS_007
+Name=DASS_007
+Start=16
+Len=1
+
+[ValueSet]
+Label=DASS_007
+Name=DASS_007_VS1
+Value=0;0
+Value=1;1
+Value=2;2
+Value=3;3
+
+[Item]
+Label=DASS_008
+Name=DASS_008
+Start=17
+Len=1
+
+[ValueSet]
+Label=DASS_008
+Name=DASS_008_VS1
+Value=0;0
+Value=1;1
+Value=2;2
+Value=3;3
+
+[Item]
+Label=DASS_009
+Name=DASS_009
+Start=18
+Len=1
+
+[ValueSet]
+Label=DASS_009
+Name=DASS_009_VS1
+Value=0;0
+Value=1;1
+Value=2;2
+Value=3;3
+
+[Item]
+Label=DASS_010
+Name=DASS_010
+Start=19
+Len=1
+
+[ValueSet]
+Label=DASS_010
+Name=DASS_010_VS1
+Value=0;0
+Value=1;1
+Value=2;2
+Value=3;3
+
+[Item]
+Label=DASS_011
+Name=DASS_011
+Start=20
+Len=1
+
+[ValueSet]
+Label=DASS_011
+Name=DASS_011_VS1
+Value=0;0
+Value=1;1
+Value=2;2
+Value=3;3
+
+[Item]
+Label=DASS_012
+Name=DASS_012
+Start=21
+Len=1
+
+[ValueSet]
+Label=DASS_012
+Name=DASS_012_VS1
+Value=0;0
+Value=1;1
+Value=2;2
+Value=3;3
+
+[Item]
+Label=DASS_013
+Name=DASS_013
+Start=22
+Len=1
+
+[ValueSet]
+Label=DASS_013
+Name=DASS_013_VS1
+Value=0;0
+Value=1;1
+Value=2;2
+Value=3;3
+
+[Item]
+Label=DASS_014
+Name=DASS_014
+Start=23
+Len=1
+
+[ValueSet]
+Label=DASS_014
+Name=DASS_014_VS1
+Value=0;0
+Value=1;1
+Value=2;2
+Value=3;3
+
+[Item]
+Label=DASS_015
+Name=DASS_015
+Start=24
+Len=1
+
+[ValueSet]
+Label=DASS_015
+Name=DASS_015_VS1
+Value=0;0
+Value=1;1
+Value=2;2
+Value=3;3
+
+[Item]
+Label=DASS_016
+Name=DASS_016
+Start=25
+Len=1
+
+[ValueSet]
+Label=DASS_016
+Name=DASS_016_VS1
+Value=0;0
+Value=1;1
+Value=2;2
+Value=3;3
+
+[Item]
+Label=DASS_017
+Name=DASS_017
+Start=26
+Len=1
+
+[ValueSet]
+Label=DASS_017
+Name=DASS_017_VS1
+Value=0;0
+Value=1;1
+Value=2;2
+Value=3;3
+
+[Item]
+Label=DASS_018
+Name=DASS_018
+Start=27
+Len=1
+
+[ValueSet]
+Label=DASS_018
+Name=DASS_018_VS1
+Value=0;0
+Value=1;1
+Value=2;2
+Value=3;3
+
+[Item]
+Label=DASS_019
+Name=DASS_019
+Start=28
+Len=1
+
+[ValueSet]
+Label=DASS_019
+Name=DASS_019_VS1
+Value=0;0
+Value=1;1
+Value=2;2
+Value=3;3
+
+[Item]
+Label=DASS_020
+Name=DASS_020
+Start=29
+Len=1
+
+[ValueSet]
+Label=DASS_020
+Name=DASS_020_VS1
+Value=0;0
+Value=1;1
+Value=2;2
+Value=3;3
+
+[Item]
+Label=DASS_021
+Name=DASS_021
+Start=30
+Len=1
+
+[ValueSet]
+Label=DASS_021
+Name=DASS_021_VS1
+Value=0;0
+Value=1;1
+Value=2;2
+Value=3;3
+
+[Record]
+Label=The Brief COPE Scales
+Name=THE_BRIEF_COPE_SCALES
+RecordTypeValue='6'
+RecordLen=37
+
+[Item]
+Label=Cope_001
+Name=COPE_001
+Start=10
+Len=1
+
+[ValueSet]
+Label=Cope_001
+Name=COPE_001_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_002
+Name=COPE_002
+Start=11
+Len=1
+
+[ValueSet]
+Label=Cope_002
+Name=COPE_002_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_003
+Name=COPE_003
+Start=12
+Len=1
+
+[ValueSet]
+Label=Cope_003
+Name=COPE_003_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_004
+Name=COPE_004
+Start=13
+Len=1
+
+[ValueSet]
+Label=Cope_004
+Name=COPE_004_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_005
+Name=COPE_005
+Start=14
+Len=1
+
+[ValueSet]
+Label=Cope_005
+Name=COPE_005_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_006
+Name=COPE_006
+Start=15
+Len=1
+
+[ValueSet]
+Label=Cope_006
+Name=COPE_006_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_007
+Name=COPE_007
+Start=16
+Len=1
+
+[ValueSet]
+Label=Cope_007
+Name=COPE_007_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_008
+Name=COPE_008
+Start=17
+Len=1
+
+[ValueSet]
+Label=Cope_008
+Name=COPE_008_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_009
+Name=COPE_009
+Start=18
+Len=1
+
+[ValueSet]
+Label=Cope_009
+Name=COPE_009_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_010
+Name=COPE_010
+Start=19
+Len=1
+
+[ValueSet]
+Label=Cope_010
+Name=COPE_010_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_011
+Name=COPE_011
+Start=20
+Len=1
+
+[ValueSet]
+Label=Cope_011
+Name=COPE_011_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_012
+Name=COPE_012
+Start=21
+Len=1
+
+[ValueSet]
+Label=Cope_012
+Name=COPE_012_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_013
+Name=COPE_013
+Start=22
+Len=1
+
+[ValueSet]
+Label=Cope_013
+Name=COPE_013_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_014
+Name=COPE_014
+Start=23
+Len=1
+
+[ValueSet]
+Label=Cope_014
+Name=COPE_014_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_015
+Name=COPE_015
+Start=24
+Len=1
+
+[ValueSet]
+Label=Cope_015
+Name=COPE_015_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_016
+Name=COPE_016
+Start=25
+Len=1
+
+[ValueSet]
+Label=Cope_016
+Name=COPE_016_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_017
+Name=COPE_017
+Start=26
+Len=1
+
+[ValueSet]
+Label=Cope_017
+Name=COPE_017_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_018
+Name=COPE_018
+Start=27
+Len=1
+
+[ValueSet]
+Label=Cope_018
+Name=COPE_018_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_019
+Name=COPE_019
+Start=28
+Len=1
+
+[ValueSet]
+Label=Cope_019
+Name=COPE_019_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_020
+Name=COPE_020
+Start=29
+Len=1
+
+[ValueSet]
+Label=Cope_020
+Name=COPE_020_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_021
+Name=COPE_021
+Start=30
+Len=1
+
+[ValueSet]
+Label=Cope_021
+Name=COPE_021_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_022
+Name=COPE_022
+Start=31
+Len=1
+
+[ValueSet]
+Label=Cope_022
+Name=COPE_022_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_023
+Name=COPE_023
+Start=32
+Len=1
+
+[ValueSet]
+Label=Cope_023
+Name=COPE_023_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_024
+Name=COPE_024
+Start=33
+Len=1
+
+[ValueSet]
+Label=Cope_024
+Name=COPE_024_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_025
+Name=COPE_025
+Start=34
+Len=1
+
+[ValueSet]
+Label=Cope_025
+Name=COPE_025_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_026
+Name=COPE_026
+Start=35
+Len=1
+
+[ValueSet]
+Label=Cope_026
+Name=COPE_026_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_027
+Name=COPE_027
+Start=36
+Len=1
+
+[ValueSet]
+Label=Cope_027
+Name=COPE_027_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot
+
+[Item]
+Label=Cope_028
+Name=COPE_028
+Start=37
+Len=1
+
+[ValueSet]
+Label=Cope_028
+Name=COPE_028_VS1
+Value=1;I haven't been doing this at all
+Value=2;A little bit
+Value=3;A medium amount
+Value=4;I’ve been doing this a lot

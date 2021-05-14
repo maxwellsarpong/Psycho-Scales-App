@@ -1,0 +1,1408 @@
+﻿[CAPI QUESTIONS]
+Version=CSPro 7.3
+
+[LANGUAGES]
+EN=English
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.AGE
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\b\f0\fs32\lang2057 Mental Health and Psychological Wellbeing Assessment of People Living with HIV/AIDS in Cape Coast Teaching Hospital\lang1033  \lang2057\par
+EN=\par
+EN=\b0 2. Age\b\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.ALCOHOL
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\b\f0\fs32\lang2057 Mental Health and Psychological Wellbeing Assessment of People Living with HIV/AIDS in Cape Coast Teaching Hospital\lang1033  \lang2057\par
+EN=\par
+EN=\b0 9. Do you drink alcohol ?\b\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_001
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red49\green131\blue154;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=\par
+EN=\fs32 1. I've been turning to work or other activities to take my mind off things \cf1\par
+EN=
+EN=\pard\cf2\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_002
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=\b0 2.\b  \b0 I've been concentrating my efforts on doing something about the situation I'm in.\fs22  \b\fs32\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_003
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=\b0 3.\b  \b0 I've been saying to myself "this isn't real".\b\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_004
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=\b0 4.\b  \b0 I've been using alcohol or other drugs to make myself feel better\b\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_005
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=\b0 5.\b  \b0 I've been getting emotional support from others.\b\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_006
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=\b0 6.\b  \b0 I've been giving up trying to deal with it.\fs22  \b\fs32\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_007
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=\b0 7.\b  \b0\f1 I've been taking action to try to make the situation better.\fs22  \b\f0\fs32\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_008
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=\b0 8.\b  \b0\f1 I've been refusing to believe that it has happened\fs22  \b\f0\fs32\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_009
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=\b0 9.\b  \b0\f1 I've been saying things to let my unpleasant feelings escape.\fs22   \b\f0\fs32\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_010
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=\b0 10.\b  \b0\f1 I\rquote ve been getting help and advice from other people.\fs22  \b\f0\fs32\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_011
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=\b0 11.\b  \b0\f1 I've been using alcohol or other drugs to help me get through it.\fs22  \b\f0\fs32\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_012
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=\b0 12\b . \b0\f1 I've been trying to see it in a different light, to make it seem more positive.\fs22  \b\f0\fs32\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_013
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=\b0 13.\b  \b0\f1 I\rquote ve been criticizing myself\b\f0\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_014
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=\b0 14.\b  \b0\f1 I've been trying to come up with a strategy about what to do.\fs22  \b\f0\fs32\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_015
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=\b0 15.\b  \b0\f1 I've been getting comfort and understanding from someone.\fs22  \b\f0\fs32\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_016
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=\b0 16.\b  \b0\f1 I've been giving up the attempt to cope.\b\f0\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_017
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=\b0 17.\b  \b0\f1 I've been looking for something good in what is happening. \b\f0\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_018
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=\b0 18.\b  \b0\f1 I've been making jokes about it. \b\f0\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_019
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=\b0 19.\b  \b0\f1 I've been doing something to think about it less, such as going\fs22  \fs32 to movies, watching TV, reading, daydreaming, sleeping, or shopping.\fs22  \b\f0\fs32\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_020
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=20. \b0\f1 I've been accepting the reality of the fact that it has happened. \b\f0\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_021
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=\b0 21.\b  \b0\f1 I've been expressing my negative feelings.\fs22  \b\f0\fs32\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_022
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=\b0 22\b . \b0\f1 I've been trying to find comfort in my religion or spiritual beliefs.\fs22  \b\f0\fs32\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_023
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=23. \b0\f1 I\rquote ve been trying to get advice or help from other people about what. \b\f0\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_024
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=24. \b0\f1 I've been learning to live with it\fs22 . \b\f0\fs32\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_025
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=25. \b0\f1 I've been thinking hard about what steps to take\fs22  \b\f0\fs32\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_026
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=26. \b0\f1 I\rquote ve been blaming myself for things that happened\fs22  \b\f0\fs32\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_027
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=\b0 27.\b  \b0\f1 I've been praying or meditating\fs22  \b\f0\fs32\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.COPE_028
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red49\green131\blue154;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\b\f0\fs32 The Brief COPE scales\par
+EN=
+EN=\pard\nowidctlpar\cf1 Instructions:\b0  \cf0 The following questions ask how you have been managing to cope with the hardship living with this disease in your life. Read the statements and indicate how much you have been using each coping style\fs24  \par
+EN=
+EN=\pard\b\fs32\par
+EN=28. \b0\f1 I've been making fun of the situation.\fs22  \b\f0\fs32\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.DASS_00120
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fnil\fcharset1 Cambria Math;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;\red64\green0\blue128;}
+EN={\*\generator Riched20 10.0.19041}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Depression, Anxiety and Stress Scale - 21 Items (DASS-21).\cf0\lang1033\par
+EN=
+EN=\pard\nowidctlpar\cf2 Instructions:\cf0\b0  Please read each statement and tick (\f1\u8730?\f0\lang1033 ) a number 0, 1, 2 or 3 which indicates how much the statement applied to you\i  \i0 over the past month living with this disease. There are no right or wrong answers. Do not spend too much time on any statement.\par
+EN=\i The rating scale is as follows:\par
+EN=\cf3\b\i0  0 Did not apply to me at all, \par
+EN= 1 Applied to me to some degree, or some of the time\par
+EN= 2 Applied to me to a considerable degree, or a good part of the time\par
+EN= 3 Applied to me very much, or most of the time\par
+EN=\cf0\b0\par
+EN=1. I found it hard to wind down (cool down/settle down). \par
+EN=\par
+EN=\par
+EN=
+EN=\pard\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.DASS_002
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fnil\fcharset1 Cambria Math;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;\red64\green0\blue128;}
+EN={\*\generator Riched20 10.0.19041}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Depression, Anxiety and Stress Scale - 21 Items (DASS-21).\cf0\lang1033\par
+EN=
+EN=\pard\nowidctlpar\cf2 Instructions:\cf0\b0  Please read each statement and tick (\f1\u8730?\f0\lang1033 ) a number 0, 1, 2 or 3 which indicates how much the statement applied to you\i  \i0 over the past month living with this disease. There are no right or wrong answers. Do not spend too much time on any statement.\par
+EN=\i The rating scale is as follows:\par
+EN=\cf3\b\i0  0 Did not apply to me at all, \par
+EN= 1 Applied to me to some degree, or some of the time\par
+EN= 2 Applied to me to a considerable degree, or a good part of the time\par
+EN= 3 Applied to me very much, or most of the time\par
+EN=\cf0\b0\par
+EN=2. I was aware of dryness in my mouth. \fs22  \fs32\par
+EN=
+EN=\pard\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.DASS_003
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fnil\fcharset1 Cambria Math;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;\red64\green0\blue128;}
+EN={\*\generator Riched20 10.0.19041}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Depression, Anxiety and Stress Scale - 21 Items (DASS-21).\cf0\lang1033\par
+EN=
+EN=\pard\nowidctlpar\cf2 Instructions:\cf0\b0  Please read each statement and tick (\f1\u8730?\f0\lang1033 ) a number 0, 1, 2 or 3 which indicates how much the statement applied to you\i  \i0 over the past month living with this disease. There are no right or wrong answers. Do not spend too much time on any statement.\par
+EN=\i The rating scale is as follows:\par
+EN=\cf3\b\i0  0 Did not apply to me at all, \par
+EN= 1 Applied to me to some degree, or some of the time\par
+EN= 2 Applied to me to a considerable degree, or a good part of the time\par
+EN= 3 Applied to me very much, or most of the time\par
+EN=\cf0\b0\par
+EN=3. I couldn\rquote t seem to experience any positive feeling at all\par
+EN=
+EN=\pard\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.DASS_004
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fnil\fcharset1 Cambria Math;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;\red64\green0\blue128;}
+EN={\*\generator Riched20 10.0.19041}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Depression, Anxiety and Stress Scale - 21 Items (DASS-21).\cf0\lang1033\par
+EN=
+EN=\pard\nowidctlpar\cf2 Instructions:\cf0\b0  Please read each statement and tick (\f1\u8730?\f0\lang1033 ) a number 0, 1, 2 or 3 which indicates how much the statement applied to you\i  \i0 over the past month living with this disease. There are no right or wrong answers. Do not spend too much time on any statement.\par
+EN=\i The rating scale is as follows:\par
+EN=\cf3\b\i0  0 Did not apply to me at all, \par
+EN= 1 Applied to me to some degree, or some of the time\par
+EN= 2 Applied to me to a considerable degree, or a good part of the time\par
+EN= 3 Applied to me very much, or most of the time\par
+EN=\cf0\b0\par
+EN=4. I experienced breathing difficulty (e.g., excessively rapid breathing, breathlessness in the absence of physical exertion).\fs22  \fs32\par
+EN=
+EN=\pard\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.DASS_005
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fnil\fcharset1 Cambria Math;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;\red64\green0\blue128;}
+EN={\*\generator Riched20 10.0.19041}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Depression, Anxiety and Stress Scale - 21 Items (DASS-21).\cf0\lang1033\par
+EN=
+EN=\pard\nowidctlpar\cf2 Instructions:\cf0\b0  Please read each statement and tick (\f1\u8730?\f0\lang1033 ) a number 0, 1, 2 or 3 which indicates how much the statement applied to you\i  \i0 over the past month living with this disease. There are no right or wrong answers. Do not spend too much time on any statement.\par
+EN=\i The rating scale is as follows:\par
+EN=\cf3\b\i0  0 Did not apply to me at all, \par
+EN= 1 Applied to me to some degree, or some of the time\par
+EN= 2 Applied to me to a considerable degree, or a good part of the time\par
+EN= 3 Applied to me very much, or most of the time\par
+EN=\cf0\b0\par
+EN=5. I found it difficult to work up the initiatives to doing things\par
+EN=
+EN=\pard\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.DASS_006
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fnil\fcharset1 Cambria Math;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;\red64\green0\blue128;}
+EN={\*\generator Riched20 10.0.19041}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Depression, Anxiety and Stress Scale - 21 Items (DASS-21).\cf0\lang1033\par
+EN=
+EN=\pard\nowidctlpar\cf2 Instructions:\cf0\b0  Please read each statement and tick (\f1\u8730?\f0\lang1033 ) a number 0, 1, 2 or 3 which indicates how much the statement applied to you\i  \i0 over the past month living with this disease. There are no right or wrong answers. Do not spend too much time on any statement.\par
+EN=\i The rating scale is as follows:\par
+EN=\cf3\b\i0  0 Did not apply to me at all, \par
+EN= 1 Applied to me to some degree, or some of the time\par
+EN= 2 Applied to me to a considerable degree, or a good part of the time\par
+EN= 3 Applied to me very much, or most of the time\par
+EN=\cf0\b0\par
+EN=6. I tended to over-react to situations\par
+EN=
+EN=\pard\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.DASS_007
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fnil\fcharset1 Cambria Math;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;\red64\green0\blue128;}
+EN={\*\generator Riched20 10.0.19041}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Depression, Anxiety and Stress Scale - 21 Items (DASS-21).\cf0\lang1033\par
+EN=
+EN=\pard\nowidctlpar\cf2 Instructions:\cf0\b0  Please read each statement and tick (\f1\u8730?\f0\lang1033 ) a number 0, 1, 2 or 3 which indicates how much the statement applied to you\i  \i0 over the past month living with this disease. There are no right or wrong answers. Do not spend too much time on any statement.\par
+EN=\i The rating scale is as follows:\par
+EN=\cf3\b\i0  0 Did not apply to me at all, \par
+EN= 1 Applied to me to some degree, or some of the time\par
+EN= 2 Applied to me to a considerable degree, or a good part of the time\par
+EN= 3 Applied to me very much, or most of the time\par
+EN=\cf0\b0\par
+EN=7. I experienced trembling (e.g., in the hands)\par
+EN=
+EN=\pard\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.DASS_008
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fnil\fcharset1 Cambria Math;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;\red64\green0\blue128;}
+EN={\*\generator Riched20 10.0.19041}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Depression, Anxiety and Stress Scale - 21 Items (DASS-21).\cf0\lang1033\par
+EN=
+EN=\pard\nowidctlpar\cf2 Instructions:\cf0\b0  Please read each statement and tick (\f1\u8730?\f0\lang1033 ) a number 0, 1, 2 or 3 which indicates how much the statement applied to you\i  \i0 over the past month living with this disease. There are no right or wrong answers. Do not spend too much time on any statement.\par
+EN=\i The rating scale is as follows:\par
+EN=\cf3\b\i0  0 Did not apply to me at all, \par
+EN= 1 Applied to me to some degree, or some of the time\par
+EN= 2 Applied to me to a considerable degree, or a good part of the time\par
+EN= 3 Applied to me very much, or most of the time\par
+EN=\cf0\b0\par
+EN=8. I felt that I was using a lot of nervous energy\par
+EN=
+EN=\pard\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.DASS_009
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fnil\fcharset1 Cambria Math;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;\red64\green0\blue128;}
+EN={\*\generator Riched20 10.0.19041}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Depression, Anxiety and Stress Scale - 21 Items (DASS-21).\cf0\lang1033\par
+EN=
+EN=\pard\nowidctlpar\cf2 Instructions:\cf0\b0  Please read each statement and tick (\f1\u8730?\f0\lang1033 ) a number 0, 1, 2 or 3 which indicates how much the statement applied to you\i  \i0 over the past month living with this disease. There are no right or wrong answers. Do not spend too much time on any statement.\par
+EN=\i The rating scale is as follows:\par
+EN=\cf3\b\i0  0 Did not apply to me at all, \par
+EN= 1 Applied to me to some degree, or some of the time\par
+EN= 2 Applied to me to a considerable degree, or a good part of the time\par
+EN= 3 Applied to me very much, or most of the time\par
+EN=\cf0\b0\par
+EN=9. I was worried about situations in which I might panic and make a fool of myself\par
+EN=
+EN=\pard\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.DASS_010
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fnil\fcharset1 Cambria Math;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;\red64\green0\blue128;}
+EN={\*\generator Riched20 10.0.19041}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Depression, Anxiety and Stress Scale - 21 Items (DASS-21).\cf0\lang1033\par
+EN=
+EN=\pard\nowidctlpar\cf2 Instructions:\cf0\b0 Please read each statement and tick (\f1\u8730?\f0\lang1033 ) a number 0, 1, 2 or 3 which indicates how much the statement applied to you\i  \i0 over the past month living with this disease. There are no right or wrong answers. Do not spend too much time on any statement.\par
+EN=\i The rating scale is as follows:\par
+EN=\cf3\b\i0  0 Did not apply to me at all, \par
+EN= 1 Applied to me to some degree, or some of the time\par
+EN= 2 Applied to me to a considerable degree, or a good part of the time\par
+EN= 3 Applied to me very much, or most of the time\par
+EN=\cf0\b0\par
+EN=10. I felt that I have nothing to look forward to\par
+EN=
+EN=\pard\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.DASS_011
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fnil\fcharset1 Cambria Math;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;\red64\green0\blue128;}
+EN={\*\generator Riched20 10.0.19041}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Depression, Anxiety and Stress Scale - 21 Items (DASS-21).\cf0\lang1033\par
+EN=
+EN=\pard\nowidctlpar\cf2 Instructions:\cf0\b0  Please read each statement and tick (\f1\u8730?\f0\lang1033 ) a number 0, 1, 2 or 3 which indicates how much the statement applied to you\i  \i0 over the past month living with this disease. There are no right or wrong answers. Do not spend too much time on any statement.\par
+EN=\i The rating scale is as follows:\par
+EN=\cf3\b\i0  0 Did not apply to me at all, \par
+EN= 1 Applied to me to some degree, or some of the time\par
+EN= 2 Applied to me to a considerable degree, or a good part of the time\par
+EN= 3 Applied to me very much, or most of the time\par
+EN=\cf0\b0\par
+EN=11. I found myself getting agitated \par
+EN=
+EN=\pard\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.DASS_012
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fnil\fcharset1 Cambria Math;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;\red64\green0\blue128;}
+EN={\*\generator Riched20 10.0.19041}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Depression, Anxiety and Stress Scale - 21 Items (DASS-21).\cf0\lang1033\par
+EN=
+EN=\pard\nowidctlpar\cf2 Instructions:\cf0\b0  Please read each statement and tick (\f1\u8730?\f0\lang1033 ) a number 0, 1, 2 or 3 which indicates how much the statement applied to you\i  \i0 over the past month living with this disease. There are no right or wrong answers. Do not spend too much time on any statement.\par
+EN=\i The rating scale is as follows:\par
+EN=\cf3\b\i0  0 Did not apply to me at all, \par
+EN= 1 Applied to me to some degree, or some of the time\par
+EN= 2 Applied to me to a considerable degree, or a good part of the time\par
+EN= 3 Applied to me very much, or most of the time\par
+EN=\cf0\b0\par
+EN=12. I found it difficult to relax\fs22  \fs32\par
+EN=
+EN=\pard\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.DASS_013
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fnil\fcharset1 Cambria Math;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;\red64\green0\blue128;}
+EN={\*\generator Riched20 10.0.19041}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Depression, Anxiety and Stress Scale - 21 Items (DASS-21).\cf0\lang1033\par
+EN=
+EN=\pard\nowidctlpar\cf2 Instructions:\cf0\b0  Please read each statement and tick (\f1\u8730?\f0\lang1033 ) a number 0, 1, 2 or 3 which indicates how much the statement applied to you\i  \i0 over the past month living with this disease. There are no right or wrong answers. Do not spend too much time on any statement.\par
+EN=\i The rating scale is as follows:\par
+EN=\cf3\b\i0  0 Did not apply to me at all, \par
+EN= 1 Applied to me to some degree, or some of the time\par
+EN= 2 Applied to me to a considerable degree, or a good part of the time\par
+EN= 3 Applied to me very much, or most of the time\par
+EN=\cf0\b0\par
+EN=13. I felt down-hearted and blue\fs22  \fs32\par
+EN=
+EN=\pard\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.DASS_014
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fnil\fcharset1 Cambria Math;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;\red64\green0\blue128;}
+EN={\*\generator Riched20 10.0.19041}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Depression, Anxiety and Stress Scale - 21 Items (DASS-21).\cf0\lang1033\par
+EN=
+EN=\pard\nowidctlpar\cf2 Instructions:\cf0\b0 Please read each statement and tick (\f1\u8730?\f0\lang1033 ) a number 0, 1, 2 or 3 which indicates how much the statement applied to you\i  \i0 over the past month living with this disease. There are no right or wrong answers. Do not spend too much time on any statement.\par
+EN=\i The rating scale is as follows:\par
+EN=\cf3\b\i0  0 Did not apply to me at all, \par
+EN= 1 Applied to me to some degree, or some of the time\par
+EN= 2 Applied to me to a considerable degree, or a good part of the time\par
+EN= 3 Applied to me very much, or most of the time\par
+EN=\cf0\b0\par
+EN=14. I was intolerant of anything that kept me from getting on with what I was doing\par
+EN=
+EN=\pard\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.DASS_015
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fnil\fcharset1 Cambria Math;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;\red64\green0\blue128;}
+EN={\*\generator Riched20 10.0.19041}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Depression, Anxiety and Stress Scale - 21 Items (DASS-21).\cf0\lang1033\par
+EN=
+EN=\pard\nowidctlpar\cf2 Instructions:\cf0\b0  Please read each statement and tick (\f1\u8730?\f0\lang1033 ) a number 0, 1, 2 or 3 which indicates how much the statement applied to you\i  \i0 over the past month living with this disease. There are no right or wrong answers. Do not spend too much time on any statement.\par
+EN=\i The rating scale is as follows:\par
+EN=\cf3\b\i0  0 Did not apply to me at all, \par
+EN= 1 Applied to me to some degree, or some of the time\par
+EN= 2 Applied to me to a considerable degree, or a good part of the time\par
+EN= 3 Applied to me very much, or most of the time\par
+EN=\cf0\b0\par
+EN=15. I felt I was close to panic\par
+EN=
+EN=\pard\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.DASS_016
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fnil\fcharset1 Cambria Math;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;\red64\green0\blue128;}
+EN={\*\generator Riched20 10.0.19041}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Depression, Anxiety and Stress Scale - 21 Items (DASS-21).\cf0\lang1033\par
+EN=
+EN=\pard\nowidctlpar\cf2 Instructions:\cf0\b0  Please read each statement and tick (\f1\u8730?\f0\lang1033 ) a number 0, 1, 2 or 3 which indicates how much the statement applied to you\i  \i0 over the past month living with this disease. There are no right or wrong answers. Do not spend too much time on any statement.\par
+EN=\i The rating scale is as follows:\par
+EN=\cf3\b\i0  0 Did not apply to me at all, \par
+EN= 1 Applied to me to some degree, or some of the time\par
+EN= 2 Applied to me to a considerable degree, or a good part of the time\par
+EN= 3 Applied to me very much, or most of the time\par
+EN=\cf0\b0\par
+EN=16. I was unable to become enthusiastic about anything\par
+EN=
+EN=\pard\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.DASS_017
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fnil\fcharset1 Cambria Math;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;\red64\green0\blue128;}
+EN={\*\generator Riched20 10.0.19041}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Depression, Anxiety and Stress Scale - 21 Items (DASS-21).\cf0\lang1033\par
+EN=
+EN=\pard\nowidctlpar\cf2 Instructions:\cf0\b0  Please read each statement and tick (\f1\u8730?\f0\lang1033 ) a number 0, 1, 2 or 3 which indicates how much the statement applied to you\i  \i0 over the past month living with this disease. There are no right or wrong answers. Do not spend too much time on any statement.\par
+EN=\i The rating scale is as follows:\par
+EN=\cf3\b\i0  0 Did not apply to me at all, \par
+EN= 1 Applied to me to some degree, or some of the time\par
+EN= 2 Applied to me to a considerable degree, or a good part of the time\par
+EN= 3 Applied to me very much, or most of the time\par
+EN=\cf0\b0\par
+EN=17. I felt I wasn\rquote t worth much a person\par
+EN=
+EN=\pard\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.DASS_018
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fnil\fcharset1 Cambria Math;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;\red64\green0\blue128;}
+EN={\*\generator Riched20 10.0.19041}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Depression, Anxiety and Stress Scale - 21 Items (DASS-21).\cf0\lang1033\par
+EN=
+EN=\pard\nowidctlpar\cf2 Instructions:\cf0\b0  Please read each statement and tick (\f1\u8730?\f0\lang1033 ) a number 0, 1, 2 or 3 which indicates how much the statement applied to you\i  \i0 over the past month living with this disease. There are no right or wrong answers. Do not spend too much time on any statement.\par
+EN=\i The rating scale is as follows:\par
+EN=\cf3\b\i0  0 Did not apply to me at all, \par
+EN= 1 Applied to me to some degree, or some of the time\par
+EN= 2 Applied to me to a considerable degree, or a good part of the time\par
+EN= 3 Applied to me very much, or most of the time\par
+EN=\cf0\b0\par
+EN=18. I felt that I was rather touchy/quick to take offence\par
+EN=
+EN=\pard\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.DASS_019
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fnil\fcharset1 Cambria Math;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;\red64\green0\blue128;}
+EN={\*\generator Riched20 10.0.19041}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Depression, Anxiety and Stress Scale - 21 Items (DASS-21).\cf0\lang1033\par
+EN=
+EN=\pard\nowidctlpar\cf2 Instructions:\cf0\b0  Please read each statement and tick (\f1\u8730?\f0\lang1033 ) a number 0, 1, 2 or 3 which indicates how much the statement applied to you\i  \i0 over the past month living with this disease. There are no right or wrong answers. Do not spend too much time on any statement.\par
+EN=\i The rating scale is as follows:\par
+EN=\cf3\b\i0  0 Did not apply to me at all, \par
+EN= 1 Applied to me to some degree, or some of the time\par
+EN= 2 Applied to me to a considerable degree, or a good part of the time\par
+EN= 3 Applied to me very much, or most of the time\par
+EN=\cf0\b0\par
+EN=19. I was aware of the action of my heart in the absence of physical exertion e.g. feel heart rate increase, heart missing a beat\par
+EN=
+EN=\pard\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.DASS_020
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fnil\fcharset1 Cambria Math;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;\red64\green0\blue128;}
+EN={\*\generator Riched20 10.0.19041}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Depression, Anxiety and Stress Scale - 21 Items (DASS-21).\cf0\lang1033\par
+EN=
+EN=\pard\nowidctlpar\cf2 Instructions:\cf0\b0  Please read each statement and tick (\f1\u8730?\f0\lang1033 ) a number 0, 1, 2 or 3 which indicates how much the statement applied to you\i  \i0 over the past month living with this disease. There are no right or wrong answers. Do not spend too much time on any statement.\par
+EN=\i The rating scale is as follows:\par
+EN=\i0  \cf3\b 0 Did not apply to me at all, \par
+EN= 1 Applied to me to some degree, or some of the time\par
+EN= 2 Applied to me to a considerable degree, or a good part of the time\par
+EN= 3 Applied to me very much, or most of the time\par
+EN=\cf0\b0\par
+EN=\par
+EN=20. I felt scared/afraid/frightened without any good reason\fs22  \fs32\par
+EN=
+EN=\pard\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.DASS_021
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fnil\fcharset1 Cambria Math;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;\red64\green0\blue128;}
+EN={\*\generator Riched20 10.0.19041}{\*\mmathPr\mmathFont1\mwrapIndent1440 }\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Depression, Anxiety and Stress Scale - 21 Items (DASS-21).\cf0\lang1033\par
+EN=
+EN=\pard\nowidctlpar\cf2 Instructions:\cf0\b0  Please read each statement and tick (\f1\u8730?\f0\lang1033 ) a number 0, 1, 2 or 3 which indicates how much the statement applied to you\i  \i0 over the past month living with this disease. There are no right or wrong answers. Do not spend too much time on any statement.\par
+EN=\i The rating scale is as follows:\par
+EN=\cf3\b\i0  0 Did not apply to me at all, \par
+EN= 1 Applied to me to some degree, or some of the time\par
+EN= 2 Applied to me to a considerable degree, or a good part of the time\par
+EN= 3 Applied to me very much, or most of the time\par
+EN=\cf0\b0\par
+EN=21. I felt that life was meaningless\fs22  \fs32\par
+EN=
+EN=\pard\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.EDUCATIONAL_LEVEL
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\b\f0\fs32\lang2057 Mental Health and Psychological Wellbeing Assessment of People Living with HIV/AIDS in Cape Coast Teaching Hospital\par
+EN=\par
+EN=\b0 6. Educational Level\lang1033  \b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.EMPLOYMENT_SPECIFY
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\b\f0\fs32\lang2057 Mental Health and Psychological Wellbeing Assessment of People Living with HIV/AIDS in Cape Coast Teaching Hospital\lang1033  \lang2057\par
+EN=\par
+EN=\b0 5.a. Please specify the employment status\b\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.EMPLOYMENT_STATUS
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\b\f0\fs32\lang2057 Mental Health and Psychological Wellbeing Assessment of People Living with HIV/AIDS in Cape Coast Teaching Hospital\lang1033  \lang2057\par
+EN=\par
+EN=\b0 5. Employment status\b\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.GENDER
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fnil\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\b\f0\fs32\lang2057 Mental Health and Psychological Wellbeing Assessment of People Living with HIV/AIDS in Cape Coast Teaching Hospital\lang1033  \fs24  \par
+EN=
+EN=\pard\cf1\b0\f1\par
+EN=\par
+EN=\fs32 1. Gender\fs24\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.HEALTH_CONDITION
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\b\f0\fs32\lang2057 Mental Health and Psychological Wellbeing Assessment of People Living with HIV/AIDS in Cape Coast Teaching Hospital\lang1033  \lang2057\par
+EN=\par
+EN=\b0 7. Do you have any other health condition you know of ?\b\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.HEALTH_CONDITION_SPECIFY
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\b\f0\fs32\lang2057 Mental Health and Psychological Wellbeing Assessment of People Living with HIV/AIDS in Cape Coast Teaching Hospital\lang1033  \lang2057\par
+EN=\par
+EN=\b0 7.a. Please specify the health condition\b\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.MARITAL_STATUS
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\b\f0\fs32\lang2057 Mental Health and Psychological Wellbeing Assessment of People Living with HIV/AIDS in Cape Coast Teaching Hospital\lang1033  \lang2057\par
+EN=\par
+EN=\b0 3. Marital Status\b\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.R_001
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Rosenberg Self-Esteem Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057  \par
+EN=\b0 Below is a list of statements dealing with your general feelings about yourself living with this disease. Please indicate how strongly you agree or disagree with each statement.  \par
+EN=\par
+EN=1. \f1\lang1033 On the whole, I am satisfied with myself.\f0\lang2057\par
+EN=
+EN=\pard\cf1\b\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.R_002
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Rosenberg Self-Esteem Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057\par
+EN=\b0 Below is a list of statements dealing with your general feelings about yourself living with this disease. Please indicate how strongly you agree or disagree with each statement.  \par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 2.\b  \cf0\b0\f1\lang1033 At times I think I am no good at all.\cf1\b\f0\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.R_003
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Rosenberg Self-Esteem Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057  \par
+EN=\b0 Below is a list of statements dealing with your general feelings about yourself living with this disease. Please indicate how strongly you agree or disagree with each statement.  \par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 3.\b  \cf0\b0\f1\lang1033 I feel that I have a number of good qualities.\cf1\b\f0\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.R_004
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Rosenberg Self-Esteem Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057  \par
+EN=\b0 Below is a list of statements dealing with your general feelings about yourself living with this disease. Please indicate how strongly you agree or disagree with each statement.  \par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 4.\b  \cf0\b0\f1\lang1033 I am able to do things as well as most other people.\fs22  \cf1\b\f0\fs32\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.R_005
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Rosenberg Self-Esteem Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057\par
+EN=\b0 Below is a list of statements dealing with your general feelings about yourself living with this disease. Please indicate how strongly you agree or disagree with each statement.  \par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 5.\b  \cf0\b0\f1\lang1033 I feel I do not have much to be proud of.\cf1\b\f0\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.R_006
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Rosenberg Self-Esteem Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057  \par
+EN=\b0 Below is a list of statements dealing with your general feelings about yourself living with this disease. Please indicate how strongly you agree or disagree with each statement.  \par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 6.\b  \cf0\b0\f1\lang1033 I certainly feel useless at times\fs22 . \cf1\b\f0\fs32\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.R_007
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Rosenberg Self-Esteem Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057\par
+EN=\b0 Below is a list of statements dealing with your general feelings about yourself living with this disease. Please indicate how strongly you agree or disagree with each statement.  \par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 7.\b  \cf0\b0\f1\lang1033 I feel that I'm a person of worth, at least on an equal plane with others. \cf1\b\f0\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.R_008
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Rosenberg Self-Esteem Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057\par
+EN=\b0 Below is a list of statements dealing with your general feelings about yourself living with this disease. Please indicate how strongly you agree or disagree with each statement.  \par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 8.\b  \cf0\b0\f1\lang1033 I wish I could have more respect for myself.\fs22  \cf1\b\f0\fs32\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.R_009
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Rosenberg Self-Esteem Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057  \par
+EN=\b0 Below is a list of statements dealing with your general feelings about yourself living with this disease. Please indicate how strongly you agree or disagree with each statement.  \par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 9.\b  \cf0\b0\f1\lang1033 All in all, I am inclined to feel that I am a failure. \cf1\b\f0\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.R_010
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 Rosenberg Self-Esteem Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057\par
+EN=\b0 Below is a list of statements dealing with your general feelings about yourself living with this disease. Please indicate how strongly you agree or disagree with each statement.  \par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 10.\b  \cf0\b0\f1\lang1033 I take a positive attitude toward myself.\fs22  \cf1\b\f0\fs32\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.RELIGION
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\b\f0\fs32\lang2057 Mental Health and Psychological Wellbeing Assessment of People Living with HIV/AIDS in Cape Coast Teaching Hospital\lang1033  \lang2057\par
+EN=\par
+EN=\b0 4. Religion\b\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.RELIGION_SPECIFY
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\b\f0\fs32\lang2057 Mental Health and Psychological Wellbeing Assessment of People Living with HIV/AIDS in Cape Coast Teaching Hospital\lang1033  \lang2057\par
+EN=\par
+EN=\b0 4a. Please specify the religion\b\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.S_001
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;\red255\green0\blue0;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 The HIV Stigma Scale\par
+EN=\cf2\lang1033 Instructions:\cf1\b0\lang2057  \par
+EN=\cf0 Please indicate how strongly you agree or disagree with each statement about you living with this disease.\par
+EN=\par
+EN=\cf1 1.\cf3  \cf0\f1\lang1033 I have been hurt by how people reacted to learning I have HIV\cf3\f0\lang2057  \fs24  \cf1\par
+EN=
+EN=\pard\cf0\b\fs32\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.S_0010
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 The HIV Stigma Scale\par
+EN=\cf2\lang1033 Instructions:\cf1\b0\lang2057\par
+EN=\cf0 Please indicate how strongly you agree or disagree with each statement about you living with this disease.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 10.\b  \cf0\b0\f1\lang1033 Most people with HIV are rejected when others find out.\fs22  \cf1\b\f0\fs32\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.S_002
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 The HIV Stigma Scale\par
+EN=\cf2\lang1033 Instructions:\cf1\b0\lang2057\par
+EN=\cf0 Please indicate how strongly you agree or disagree with each statement about you living with this disease.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 2\b . \cf0\b0\f1\lang1033 I have stopped socializing with some people because of their reactions of my having HIV.\cf1\b\f0\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.S_003
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 The HIV Stigma Scale\par
+EN=\cf2\lang1033 Instructions:\cf1\b0\lang2057  \par
+EN=\cf0 Please indicate how strongly you agree or disagree with each statement about you living with this disease.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 3\b . \cf0\b0\f1\lang1033 I have lost friends by telling them I have HIV.\cf1\b\f0\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.S_004
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 The HIV Stigma Scale\par
+EN=\cf2\lang1033 Instructions:\cf1\b0\lang2057\par
+EN=\cf0 Please indicate how strongly you agree or disagree with each statement about you living with this disease.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 4\b . \cf0\b0\f1\lang1033 I am very careful who I tell that I have HIV\cf1\b\f0\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.S_005
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 The HIV Stigma Scale\par
+EN=\cf2\lang1033 Instructions:\cf1\b0\lang2057  \par
+EN=\cf0 Please indicate how strongly you agree or disagree with each statement about you living with this disease.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 5.\b  \cf0\b0\f1\lang1033 I worry that people who know I have HIV will tell others.\cf1\b\f0\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.S_006
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 The HIV Stigma Scale\par
+EN=\cf2\lang1033 Instructions:\cf1\b0\lang2057  \par
+EN=\cf0 Please indicate how strongly you agree or disagree with each statement about you living with this disease.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 6.\b  \cf0\b0\f1\lang1033 I feel that I am not as good a person as others because I have HIV.\cf1\b\f0\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.S_007
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 The HIV Stigma Scale\par
+EN=\cf2\lang1033 Instructions:\cf1\b0\lang2057  \par
+EN=\cf0 Please indicate how strongly you agree or disagree with each statement about you living with this disease.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 7. Having HIV makes me feel unclean\b\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.S_008
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 The HIV Stigma Scale\par
+EN=\cf2\lang1033 Instructions:\cf1\b0\lang2057  \par
+EN=\cf0 Please indicate how strongly you agree or disagree with each statement about you living with this disease.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 8.\b  \cf0\b0\f1\lang1033 Having HIV makes me feel that I\rquote m a bad person.\cf1\b\f0\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.S_009
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\fswiss\fprq2\fcharset0 Arial;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 The HIV Stigma Scale\par
+EN=\cf2\lang1033 Instructions:\cf1\b0\lang2057\par
+EN=\cf0 Please indicate how strongly you agree or disagree with each statement about you living with this disease.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 9.\b  \cf0\b0\f1\lang1033 Most people think that a person with HIV is disgusting.\cf1\b\f0\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.SMOKE
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\b\f0\fs32\lang2057 Mental Health and Psychological Wellbeing Assessment of People Living with HIV/AIDS in Cape Coast Teaching Hospital\lang1033  \lang2057\par
+EN=\par
+EN=\b0 8. Do you smoke ?\b\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.UCLA_001
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 UCLA Loneliness Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057\par
+EN=\b0 The following statements describe how people sometimes feel. For each statement, please state how often you feel the way the statement described you living with this disease by ticking the space provided\par
+EN=\par
+EN=1. \lang1033 How often do you feel that you are \ldblquote in tune\rdblquote  with the people around you?\fs24\lang2057\par
+EN=\cf1\b\par
+EN=
+EN=\pard\fs32\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.UCLA_002
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 UCLA Loneliness Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057\par
+EN=\b0 The following statements describe how people sometimes feel. For each statement, please state how often you feel the way the statement described you living with this disease by ticking the space provided.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 2.\b   \cf0\b0\lang1033 How often do you feel you lack companionship?\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.UCLA_003
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 UCLA Loneliness Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057\par
+EN=\b0 The following statements describe how people sometimes feel. For each statement, please state how often you feel the way the statement described you living with this disease by ticking the space provided.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 3. \cf0\lang1033 How often do you feel that there is no one you can turn to?\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.UCLA_004
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 UCLA Loneliness Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057\par
+EN=\b0 The following statements describe how people sometimes feel. For each statement, please state how often you feel the way the statement described you living with this disease by ticking the space provided.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 4.\b  \cf0\b0\lang1033 How often do you feel alone?\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.UCLA_005
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 UCLA Loneliness Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057  \par
+EN=\b0 The following statements describe how people sometimes feel. For each statement, please state how often you feel the way the statement described you living with this disease by ticking the space provided.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 5. \cf0\lang1033 How often do you feel part of a group of friends?\fs22  \cf1\b\fs32\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.UCLA_006
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 UCLA Loneliness Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057\par
+EN=\b0 The following statements describe how people sometimes feel. For each statement, please state how often you feel the way the statement described you living with this disease by ticking the space provided.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 6.\b  \cf0\b0\lang1033 How often do you feel that you have a lot in common with people around you?\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.UCLA_007
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 UCLA Loneliness Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057  \par
+EN=\b0 The following statements describe how people sometimes feel. For each statement, please state how often you feel the way the statement described you living with this disease by ticking the space provided.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 7.\b  \cf0\b0\lang1033 How often do you feel that you are no longer close to someone?\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.UCLA_008
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 UCLA Loneliness Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057\par
+EN=\b0 The following statements describe how people sometimes feel. For each statement, please state how often you feel the way the statement described you living with this disease by ticking the space provided.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 8.\b  \cf0\b0\lang1033 How often do you feel that your interests and ideas are not shared by those around you\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.UCLA_009
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 UCLA Loneliness Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057  \par
+EN=\b0 The following statements describe how people sometimes feel. For each statement, please state how often you feel the way the statement described you living with this disease by ticking the space provided.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 9.\b  \cf0\b0\lang1033 How often do you feel outgoing and friendly?\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.UCLA_010
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 UCLA Loneliness Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057\par
+EN=\b0 The following statements describe how people sometimes feel. For each statement, please state how often you feel the way the statement described you living with this disease by ticking the space provided.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 10.\b  \cf0\b0\lang1033 How often do you feel close to people?\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.UCLA_011
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 UCLA Loneliness Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057\par
+EN=\b0 The following statements describe how people sometimes feel. For each statement, please state how often you feel the way the statement described you living with this disease by ticking the space provided.\par
+EN=
+EN=\pard\cf1\par
+EN=11. \cf0\lang1033 How often do you feel left out?\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.UCLA_012
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 UCLA Loneliness Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057\par
+EN=\b0 The following statements describe how people sometimes feel. For each statement, please state how often you feel the way the statement described you living with this disease by ticking the space provided.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 12.\b  \cf0\b0\lang1033 How often do you feel that your relationships with others are not meaningful?\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.UCLA_013
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 UCLA Loneliness Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057\par
+EN=\b0 The following statements describe how people sometimes feel. For each statement, please state how often you feel the way the statement described you living with this disease by ticking the space provided.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 13.\b  \cf0\b0\lang1033 How often do you feel that no one really knows you?\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.UCLA_014
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 UCLA Loneliness Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057\par
+EN=\b0 The following statements describe how people sometimes feel. For each statement, please state how often you feel the way the statement described you living with this disease by ticking the space provided.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 14.\b  \cf0\b0\lang1033 How often do you feel isolated from others\fs22  \cf1\b\fs32\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.UCLA_015
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 UCLA Loneliness Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057\par
+EN=\b0 The following statements describe how people sometimes feel. For each statement, please state how often you feel the way the statement described you living with this disease by ticking the space provided.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 15.\b  \cf0\b0\lang1033 How often do you feel you can find companionship when you want it?\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.UCLA_016
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 UCLA Loneliness Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057\par
+EN=\b0 The following statements describe how people sometimes feel. For each statement, please state how often you feel the way the statement described you living with this disease by ticking the space provided.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 16.\b  \cf0\b0\lang1033 How often do you feel that there are people who really understand you?\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.UCLA_017
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 UCLA Loneliness Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057\par
+EN=\b0 The following statements describe how people sometimes feel. For each statement, please state how often you feel the way the statement described you living with this disease by ticking the space provided.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 17.\b  \cf0\b0\lang1033 How often do you feel shy?\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.UCLA_018
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 UCLA Loneliness Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057\par
+EN=\b0 The following statements describe how people sometimes feel. For each statement, please state how often you feel the way the statement described you living with this disease by ticking the space provided.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 18.\b  \cf0\b0\lang1033 How often do you feel that people are around you but not with you?\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.UCLA_019
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 UCLA Loneliness Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057\par
+EN=\b0 The following statements describe how people sometimes feel. For each statement, please state how often you feel the way the statement described you living with this disease by ticking the space provided.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 19.\b  \cf0\b0\lang1033 How often do you feel that there are people you can talk to?\cf1\b\lang2057\par
+EN=}
+
+[QUESTION]
+Field=PSYCHO_SCALES_APP_DICT.UCLA_020
+EN={\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}}
+EN={\colortbl ;\red0\green0\blue0;\red0\green128\blue192;}
+EN={\*\generator Riched20 10.0.19041}\viewkind4\uc1
+EN=\pard\nowidctlpar\sl360\slmult1\qj\cf1\b\f0\fs32\lang2057 UCLA Loneliness Scale\par
+EN=\cf2\lang1033 Instructions:\cf0\lang2057  \par
+EN=\b0 The following statements describe how people sometimes feel. For each statement, please state how often you feel the way the statement described you living with this disease by ticking the space provided.\par
+EN=
+EN=\pard\cf1\b\par
+EN=\b0 20\b . \cf0\b0\lang1033 How often do you feel that there are people you can turn to?\cf1\b\lang2057\par
+EN=}
+
