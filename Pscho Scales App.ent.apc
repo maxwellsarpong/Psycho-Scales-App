@@ -11,7 +11,10 @@ postproc
 	if AGE > 120 then
 		errmsg("Please enter ages below 120");
 		reenter;
-	endif
+	elseif AGE <= 0 then
+		errmsg("Age cannot be less than or equal to 0");
+		reenter;
+	endif;
 PROC RELIGION
 
 
@@ -21,7 +24,7 @@ postproc
 		RELIGION_SPECIFY = "";
 		skip to RELIGION_SPECIFY;
 	elseif (RELIGION = 0) or (RELIGION = 1) or (RELIGION = 2) then
-		RELIGION_SPECIFY= "NaN";
+		RELIGION_SPECIFY= "N/A";
 		skip to EMPLOYMENT_STATUS;
 	endif;
 PROC RELIGION_SPECIFY
@@ -43,7 +46,7 @@ postproc
 		EMPLOYMENT_SPECIFY = "";
 		skip to EMPLOYMENT_SPECIFY;
 	elseif (EMPLOYMENT_STATUS = 1) or (EMPLOYMENT_STATUS = 2) or (EMPLOYMENT_STATUS = 3) then
-		EMPLOYMENT_SPECIFY= "NaN";
+		EMPLOYMENT_SPECIFY= "N/A";
 		skip to EDUCATIONAL_LEVEL;
 	endif;
 PROC EMPLOYMENT_SPECIFY
@@ -64,7 +67,7 @@ postproc
 		HEALTH_CONDITION_SPECIFY = "";
 		skip to HEALTH_CONDITION_SPECIFY;
 	elseif HEALTH_CONDITION = 0 then
-		HEALTH_CONDITION_SPECIFY = "NaN";
+		HEALTH_CONDITION_SPECIFY = "N/A";
 		skip to SMOKE;
 	endif;
 PROC HEALTH_CONDITION_SPECIFY
